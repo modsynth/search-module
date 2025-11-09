@@ -1,0 +1,13 @@
+{
+  "name": "search-module",
+  "version": "0.1.0",
+  "description": "Elasticsearch search integration",
+  "type": "library",
+  "language": "go",
+  "category": "backend",
+  "maintainers": [{"name": "Modsynth Team"}],
+  "repository": {"type": "git", "url": "https://github.com/modsynth/search-module.git"},
+  "techStack": ["Go", "Elasticsearch"],
+  "features": ["Full-text search", "Document indexing", "Search queries", "Aggregations"],
+  "tags": ["search", "elasticsearch", "full-text"]
+}
